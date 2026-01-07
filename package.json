@@ -1,8 +1,11 @@
 {
   "name": "changeset-first",
-  "version": "0.0.1",
+  "private": true,
   "description": "",
   "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "changeset": "changeset",
     "version": "changeset version",

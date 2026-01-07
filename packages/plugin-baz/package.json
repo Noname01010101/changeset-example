@@ -1,0 +1,12 @@
+{
+  "name": "plugin-baz",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \" This changed \""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

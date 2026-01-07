@@ -1,5 +1,11 @@
 # changeset-first
 
+## 0.0.2
+
+### Patch Changes
+
+- Added a new package and am ready for versioning!
+
 ## 0.0.1
 
 ### Patch Changes
